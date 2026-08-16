@@ -1,0 +1,25 @@
+# Configuracion del sitio publico de Sticker.fit.
+#
+# Se copia tal cual al repositorio publico. Lo unico que hace es decirle a GitHub Pages con que
+# aspecto dibujar los documentos, que llegan como Markdown.
+#
+# El tema es uno de los que GitHub Pages trae de serie: sin plugin, sin dependencias y sin nada que
+# instalar. Un tema propio seria una segunda cosa que mantener para cinco paginas de texto.
+
+title: Sticker.fit
+description: Politica de privacidad, condiciones, ayuda y avisos de contenido
+theme: jekyll-theme-primer
+
+# Sin esto, un enlace de un documento a otro escrito como `terminos.md` llega al navegador tal cual y
+# no encuentra nada: las paginas se publican como `.html`. El complemento reescribe esos enlaces al
+# construir, y viene incluido en GitHub Pages.
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: false
+
+# Lo que no se publica aunque este en el repositorio.
+exclude:
+  - README.md
