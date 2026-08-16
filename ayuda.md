@@ -60,8 +60,8 @@ Para no custodiar contraseñas. Es la superficie de riesgo que preferimos no ten
 Para comprobar que tienes 16 años, que es la edad mínima para tener cuenta.
 
 **Quiero borrar mi cuenta.**
-Ajustes → Cuenta → Borrar cuenta. Qué desaparece y qué no está en la página de [borrado de
-cuenta](borrado-de-cuenta.md).
+Ajustes → Cuenta → Borrar cuenta. Qué desaparece y qué no está en
+la página de [borrado de cuenta](borrado-de-cuenta.md).
 
 ## El catálogo
 
@@ -78,8 +78,8 @@ Mira «Mis packs → Publicados». Si está retirado, ahí verás si lo retirast
 —con el motivo— o si está en revisión.
 
 **Vi algo que no debería estar ahí.**
-Denúncialo desde su ficha, o por la vía de la página de [avisar de un
-contenido](avisar-de-contenido.md). No hace falta tener cuenta.
+Denúncialo desde su ficha, o por la vía de
+la página de [avisar de un contenido](avisar-de-contenido.md). No hace falta tener cuenta.
 
 **Bloqueé a alguien sin querer.**
 Ajustes → Cuentas bloqueadas, y ahí se deshace.

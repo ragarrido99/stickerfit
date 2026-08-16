@@ -37,8 +37,8 @@ reclamación de derechos, donde sí hace falta saber quién reclama.
 Lo mira una persona. Según de qué se trate, el contenido puede quedar oculto del catálogo desde el
 primer aviso mientras se revisa.
 
-Los plazos y los criterios están en la sección 6 de los [términos y
-condiciones](terminos.md), explicados en lenguaje llano.
+Los plazos y los criterios están en la sección 6 de
+los [términos y condiciones](terminos.md), explicados en lenguaje llano.
 
 **El aviso no es una garantía de retirada**: la revisión puede acabar en que el contenido se quede
 donde está. Y al revés, tampoco hace falta insistir: un aviso claro es suficiente y varios avisos de
