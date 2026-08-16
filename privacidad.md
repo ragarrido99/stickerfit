@@ -104,9 +104,9 @@ servidor —dirección IP, fecha, ruta pedida y código de respuesta— durante 
 
 ## 5. Publicidad
 
-Antes de descargar un pack o un sticker del catálogo se ofrece un anuncio con recompensa, y no hay
+Para descargar un pack o un sticker del catálogo hay que ver un anuncio con recompensa, y no hay
 anuncios en ningún otro sitio de la aplicación. **Nunca al instalar en WhatsApp un pack tuyo**: eso
-funciona sin red y sin anuncios.
+funciona sin red y sin anuncios, igual que crear stickers, editarlos y compartirlos.
 
 Los anuncios los sirve el sistema de publicidad de Google, que para hacerlo recoge identificadores
 del dispositivo y datos técnicos propios. Ese tratamiento lo hace Google conforme a sus propias
@@ -114,7 +114,14 @@ políticas; nosotros no recibimos esos datos ni les damos nada tuyo. Si estás e
 Europeo o en el Reino Unido, la primera vez verás un mensaje de consentimiento donde puedes elegir
 qué permites, y esa elección se puede cambiar después desde los ajustes de la aplicación.
 
-Si el anuncio no carga, la descarga sigue igual: no está puesto como un peaje.
+**El anuncio es la condición para descargar del catálogo**: si no hay ninguno disponible, o si lo
+cierras antes de terminarlo, la descarga no se hace y puedes volver a intentarlo. Es lo que sostiene
+el coste de tener el catálogo abierto. Nada de esto afecta a lo que ya está en tu teléfono: tus packs
+y tus stickers se instalan y se comparten sin anuncios y sin conexión.
+
+En el Espacio Económico Europeo y en el Reino Unido, no aceptar el mensaje de consentimiento significa
+que no se te puede enseñar un anuncio, y por tanto tampoco descargar del catálogo. El resto de la
+aplicación sigue funcionando igual.
 
 ## 6. Para qué usamos cada cosa, y con qué base
 
