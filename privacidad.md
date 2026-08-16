@@ -10,7 +10,7 @@ Versión 1 · 16 de agosto de 2026
 
 ## 1. Quién trata tus datos
 
-Raúl Garrido Rasillo, en adelante «nosotros». Sticker.fit es una aplicación de Android para crear
+Raúl Garrido Rasillo, Maria Antonia Paris 7, 43204 Reus, España, en adelante «nosotros». Sticker.fit es una aplicación de Android para crear
 stickers y compartirlos.
 
 Para cualquier cosa relacionada con esta política, incluidas las peticiones de la sección 9:

@@ -13,7 +13,7 @@ Versión 1 · 16 de agosto de 2026
 Sticker.fit es una aplicación de Android para crear stickers, montarlos en packs e instalarlos en
 WhatsApp, con un catálogo público de contenido compartido por sus usuarios.
 
-Estas condiciones son el contrato entre Raúl Garrido Rasillo —«nosotros»— y tú al usar la aplicación y el
+Estas condiciones son el contrato entre Raúl Garrido Rasillo, Maria Antonia Paris 7, 43204 Reus, España —«nosotros»— y tú al usar la aplicación y el
 catálogo. Cómo tratamos tus datos está en la política de privacidad, que es un documento aparte y
 forma parte de esto.
 
