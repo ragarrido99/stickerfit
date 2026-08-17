@@ -4,7 +4,7 @@ title: "Política de privacidad de Sticker.fit"
 
 # Política de privacidad de Sticker.fit
 
-Versión 2 · 17 de agosto de 2026
+Versión 3 · 17 de agosto de 2026
 
 ---
 
@@ -74,8 +74,10 @@ Google. **Tu contraseña de Google no la vemos nunca**, ni nosotros ni nuestro p
 avatar opcional. **Todo eso es público**: aparece como autor de lo que publiques y lo puede ver
 cualquiera.
 
-**Fecha de nacimiento.** Se pide una vez, para comprobar que tienes al menos 16 años (sección 8). Se
-guarda la fecha, no se verifica contra ningún documento, y no es pública.
+**Fecha de nacimiento.** Se pide una vez y **se usa para dos cosas**: comprobar que tienes al menos
+16 años (sección 8) y decidir si los anuncios que se te sirven pueden ser personalizados (sección 5).
+Se guarda la fecha, no se verifica contra ningún documento, y **no es pública ni sale nunca del
+servidor**: la aplicación no la recibe de vuelta, sólo recibe la respuesta a esas dos preguntas.
 
 **La versión de las condiciones que aceptaste**, con el fin de saber si hay que volver a
 preguntártelas cuando cambien.
@@ -124,6 +126,14 @@ políticas; nosotros no recibimos esos datos ni les damos nada tuyo. Si estás e
 Europeo o en el Reino Unido, la primera vez verás un mensaje de consentimiento donde puedes elegir
 qué permites, y esa elección se puede cambiar después desde los ajustes de la aplicación.
 
+**Los anuncios no son personalizados salvo que nos conste que tienes 18 años o más.** Es la regla y
+no una excepción: por omisión se pide un anuncio sin personalizar, y sólo se pide personalizado si
+has creado una cuenta y la fecha de nacimiento que declaraste dice que tienes 18 o más. Como añadir
+un pack a WhatsApp no exige cuenta, **el caso normal es el anuncio sin personalizar**.
+
+La aplicación no le manda tu edad ni tu fecha de nacimiento al sistema de publicidad: lo único que
+viaja con la petición del anuncio es la marca de que no puede personalizarse.
+
 **El anuncio es la condición para añadir el pack**: si no hay ninguno disponible, o si lo cierras
 antes de terminarlo, el pack no se añade y puedes volver a intentarlo. Es lo que sostiene el coste de
 la aplicación y del catálogo.
@@ -145,6 +155,7 @@ catálogo. El resto de la aplicación sigue funcionando igual.
 | Seguir, marcar y avisar | Comunidad y actividad | Ejecución del contrato |
 | Mandarte avisos al teléfono | Dirección de notificación | Tu consentimiento, que das al encender el interruptor y retiras al apagarlo |
 | Comprobar la edad mínima | Fecha de nacimiento | Obligación legal y protección de menores |
+| Decidir si un anuncio puede ser personalizado | Fecha de nacimiento | Obligación legal y protección de menores |
 | Moderar y atender denuncias | Denuncias, bloqueos, decisiones | Interés legítimo en mantener el servicio limpio, y obligación legal cuando la hay |
 | Contar descargas y ordenar el catálogo | Uso | Interés legítimo en que el catálogo tenga un orden con sentido |
 | Publicidad | Lo que recoge el sistema de Google | Tu consentimiento donde se exige |
@@ -177,6 +188,9 @@ que declaras, sin verificar, que es lo proporcionado para un servicio del tamañ
 Es una condición de la cuenta y no de la aplicación: crear stickers, editarlos e instalarlos en
 WhatsApp no exige cuenta, de modo que esa mitad se puede usar por debajo de esa edad. Lo único que
 ahí sí trata datos es el anuncio de la sección 5, y quien los trata es Google.
+
+**A quien no nos conste que tiene 18 años o más no se le sirven anuncios personalizados**, y eso
+incluye a quien usa la aplicación sin cuenta, que es la mayoría. Está contado entero en la sección 5.
 
 Si tenemos noticia de una cuenta de un menor de 16, la retiramos.
 

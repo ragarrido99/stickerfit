@@ -57,7 +57,9 @@ Para todo lo demás, no.
 Para no custodiar contraseñas. Es la superficie de riesgo que preferimos no tener.
 
 **¿Por qué me piden la fecha de nacimiento?**
-Para comprobar que tienes 16 años, que es la edad mínima para tener cuenta.
+Por dos cosas: para comprobar que tienes 16 años, que es la edad mínima para tener cuenta, y para
+saber si los anuncios que ves pueden ser personalizados. No se la enseñamos a nadie y no sale del
+servidor.
 
 **Quiero borrar mi cuenta.**
 Ajustes → Cuenta → Borrar cuenta. Qué desaparece y qué no está en
@@ -73,6 +75,10 @@ autor le suma una descarga.
 Es lo que paga la aplicación. Va ahí y en ningún otro sitio: sale una vez por cada pack que añades,
 sea tuyo o del catálogo, y **descargar del catálogo no lleva anuncio**. Hay que verlo entero: si no
 hay ninguno disponible o lo cierras a la mitad, el pack no se añade y puedes volver a intentarlo.
+
+**¿Los anuncios están personalizados?**
+Solo si nos consta que tienes 18 años o más, es decir si tienes cuenta y la fecha que declaraste lo
+dice. En cualquier otro caso —y sin cuenta siempre— el anuncio se pide sin personalizar.
 
 **¿Puedo usar la aplicación sin conexión?**
 Casi entera: crear stickers, editarlos, montar packs, tu biblioteca de sueltos y compartir un sticker
