@@ -29,8 +29,9 @@ Sí, uno a uno con el botón de compartir. **El pack instalable es solo de Whats
 aplicaciones no tienen ese mecanismo, así que ahí el sticker viaja como una imagen.
 
 **¿Se ven mis stickers si me quedo sin conexión?**
-Sí. Crear, editar, montar packs, instalarlos en WhatsApp y compartir funcionan **sin conexión y sin
-cuenta**. Lo único que necesita red es el catálogo.
+Sí: están en tu teléfono. Crear, editar, montar packs y compartir funcionan **sin conexión y sin
+cuenta**. Lo que sí necesita conexión es **añadir un pack a WhatsApp**, porque lleva un anuncio; los
+packs que ya estén en WhatsApp siguen ahí sin conexión. El catálogo también necesita red.
 
 ## Stickers animados
 
