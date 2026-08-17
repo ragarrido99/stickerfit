@@ -4,7 +4,7 @@ title: "Centro de ayuda de Sticker.fit"
 
 # Centro de ayuda de Sticker.fit
 
-16 de agosto de 2026
+17 de agosto de 2026
 
 ---
 
@@ -69,9 +69,15 @@ la página de [borrado de cuenta](borrado-de-cuenta.md).
 Pasa a ser tuyo: puedes editarlo, quitarle stickers o añadirle más, igual que uno hecho por ti. Al
 autor le suma una descarga.
 
-**¿Por qué sale un anuncio antes de descargar?**
-Es lo que sostiene el catálogo. Va ahí y en ningún otro sitio: **nunca al instalar en WhatsApp un
-pack tuyo**. Si el anuncio no carga, la descarga sigue igual.
+**¿Por qué sale un anuncio al añadir un pack a WhatsApp?**
+Es lo que paga la aplicación. Va ahí y en ningún otro sitio: sale una vez por cada pack que añades,
+sea tuyo o del catálogo, y **descargar del catálogo no lleva anuncio**. Hay que verlo entero: si no
+hay ninguno disponible o lo cierras a la mitad, el pack no se añade y puedes volver a intentarlo.
+
+**¿Puedo usar la aplicación sin conexión?**
+Casi entera: crear stickers, editarlos, montar packs, tu biblioteca de sueltos y compartir un sticker
+con cualquier aplicación funcionan sin red. **Lo único que necesita conexión es añadir un pack a
+WhatsApp**, porque lleva anuncio. Los packs que ya estén en WhatsApp siguen ahí sin conexión.
 
 **Publiqué un pack y ya no aparece.**
 Mira «Mis packs → Publicados». Si está retirado, ahí verás si lo retiraste tú, si te lo retiramos

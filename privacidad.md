@@ -4,7 +4,7 @@ title: "Política de privacidad de Sticker.fit"
 
 # Política de privacidad de Sticker.fit
 
-Versión 1 · 16 de agosto de 2026
+Versión 2 · 17 de agosto de 2026
 
 ---
 
@@ -22,6 +22,11 @@ Para cualquier cosa relacionada con esta política, incluidas las peticiones de 
   instalarlos en WhatsApp y compartirlos ocurre entero dentro de tu teléfono. Tus fotos no salen de
   él, y la eliminación de fondo se hace en el propio dispositivo, sin subir la imagen a ningún
   sitio.
+- **Añadir un pack a WhatsApp lleva un anuncio, y por tanto necesita conexión.** Es lo único de la
+  mitad local que la necesita, y desde el 17 de agosto de 2026: sale un anuncio cada vez que un pack
+  se añade a WhatsApp, sea tuyo o del catálogo. Nosotros seguimos sin recibir nada; quien recoge
+  datos ahí es el sistema de publicidad de Google, y la sección 5 dice cuáles. Compartir un sticker
+  con cualquier aplicación sigue sin anuncios y sin conexión.
 - **Explorar el catálogo tampoco exige cuenta.** Al mirarlo o descargar de él, nuestro servicio ve
   lo que cualquier servidor ve de cualquier visita, y guarda el hecho de la descarga para poder
   contar cuántas lleva un pack.
@@ -104,9 +109,14 @@ servidor —dirección IP, fecha, ruta pedida y código de respuesta— durante 
 
 ## 5. Publicidad
 
-Para descargar un pack o un sticker del catálogo hay que ver un anuncio con recompensa, y no hay
-anuncios en ningún otro sitio de la aplicación. **Nunca al instalar en WhatsApp un pack tuyo**: eso
-funciona sin red y sin anuncios, igual que crear stickers, editarlos y compartirlos.
+**El anuncio va en un solo sitio: al añadir un pack a WhatsApp.** Sale una vez por cada pack que
+añades, sea uno que hayas hecho tú o uno que te hayas bajado del catálogo, y no hay anuncios en
+ningún otro sitio de la aplicación. Descargar del catálogo y guardar un sticker suelto no llevan
+anuncio.
+
+> **Esto cambió el 17 de agosto de 2026, y conviene decir qué decía antes**: hasta esa versión el
+> anuncio iba antes de descargar del catálogo, y esta página prometía que nunca lo habría al instalar
+> en WhatsApp un pack tuyo. Ya no es así, y la consecuencia está escrita entera aquí abajo.
 
 Los anuncios los sirve el sistema de publicidad de Google, que para hacerlo recoge identificadores
 del dispositivo y datos técnicos propios. Ese tratamiento lo hace Google conforme a sus propias
@@ -114,14 +124,17 @@ políticas; nosotros no recibimos esos datos ni les damos nada tuyo. Si estás e
 Europeo o en el Reino Unido, la primera vez verás un mensaje de consentimiento donde puedes elegir
 qué permites, y esa elección se puede cambiar después desde los ajustes de la aplicación.
 
-**El anuncio es la condición para descargar del catálogo**: si no hay ninguno disponible, o si lo
-cierras antes de terminarlo, la descarga no se hace y puedes volver a intentarlo. Es lo que sostiene
-el coste de tener el catálogo abierto. Nada de esto afecta a lo que ya está en tu teléfono: tus packs
-y tus stickers se instalan y se comparten sin anuncios y sin conexión.
+**El anuncio es la condición para añadir el pack**: si no hay ninguno disponible, o si lo cierras
+antes de terminarlo, el pack no se añade y puedes volver a intentarlo. Es lo que sostiene el coste de
+la aplicación y del catálogo.
+
+**Lo que eso implica, dicho sin rodeos: añadir un pack a WhatsApp necesita conexión.** Crear
+stickers, editarlos, montar packs, tu biblioteca de sueltos y compartir un sticker con cualquier
+aplicación siguen funcionando sin red y sin anuncios. Añadirlo a WhatsApp, no.
 
 En el Espacio Económico Europeo y en el Reino Unido, no aceptar el mensaje de consentimiento significa
-que no se te puede enseñar un anuncio, y por tanto tampoco descargar del catálogo. El resto de la
-aplicación sigue funcionando igual.
+que no se te puede enseñar un anuncio, y por tanto tampoco añadir packs a WhatsApp ni descargar del
+catálogo. El resto de la aplicación sigue funcionando igual.
 
 ## 6. Para qué usamos cada cosa, y con qué base
 
@@ -162,8 +175,8 @@ Aparte de eso, podemos comunicar información cuando una ley o una autoridad com
 que declaras, sin verificar, que es lo proporcionado para un servicio del tamaño de este.
 
 Es una condición de la cuenta y no de la aplicación: crear stickers, editarlos e instalarlos en
-WhatsApp no exige cuenta y no trata datos personales, de modo que esa mitad se puede usar por debajo
-de esa edad.
+WhatsApp no exige cuenta, de modo que esa mitad se puede usar por debajo de esa edad. Lo único que
+ahí sí trata datos es el anuncio de la sección 5, y quien los trata es Google.
 
 Si tenemos noticia de una cuenta de un menor de 16, la retiramos.
 

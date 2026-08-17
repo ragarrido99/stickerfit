@@ -4,7 +4,7 @@ title: "Términos y condiciones de Sticker.fit"
 
 # Términos y condiciones de Sticker.fit
 
-Versión 1 · 16 de agosto de 2026
+Versión 2 · 17 de agosto de 2026
 
 ---
 
@@ -18,8 +18,10 @@ catálogo. Cómo tratamos tus datos está en la política de privacidad, que es 
 forma parte de esto.
 
 **Buena parte de la aplicación no necesita cuenta ni conexión**: crear stickers, editarlos, montar
-packs, instalarlos en WhatsApp y compartirlos. Esa parte funciona sin que nos des nada y sin que
-nosotros veamos nada.
+packs, tu biblioteca de stickers sueltos y compartir un sticker con cualquier aplicación. Esa parte
+funciona sin que nos des nada y sin que nosotros veamos nada. **Añadir un pack a WhatsApp tampoco
+necesita cuenta, pero desde el 17 de agosto de 2026 sí necesita conexión**, porque lleva un anuncio:
+lo cuenta la sección 9.
 
 ## 2. Edad
 
@@ -189,9 +191,18 @@ quien lo publicó, que podrá responder.
 
 ## 9. Anuncios
 
-Antes de descargar del catálogo se ofrece un anuncio con recompensa. No hay anuncios en ninguna otra
-parte de la aplicación, y en particular **no los hay al instalar en WhatsApp un pack tuyo**. Si el
-anuncio no carga, la descarga sigue.
+**Al añadir un pack a WhatsApp sale un anuncio con recompensa**, sea un pack que hayas hecho tú o uno
+que te hayas bajado del catálogo. No hay anuncios en ninguna otra parte de la aplicación: descargar
+del catálogo, guardar un sticker suelto y compartir un sticker no llevan ninguno.
+
+**El anuncio es la condición**: si no hay ninguno disponible, o si lo cierras antes de terminarlo, el
+pack no se añade y puedes volver a intentarlo. Eso significa que **añadir un pack a WhatsApp necesita
+conexión**.
+
+> **Esta sección decía lo contrario hasta el 17 de agosto de 2026**, y conviene dejarlo escrito: el
+> anuncio iba antes de descargar del catálogo, y aquí ponía que no lo había al instalar un pack tuyo.
+> También decía que si el anuncio no cargaba la descarga seguía, lo cual dejó de ser cierto el 16 de
+> agosto de 2026 y este documento no llegó a recogerlo.
 
 ## 10. Qué no prometemos
 
@@ -200,10 +211,11 @@ disponible**, ni que un contenido siga publicado, ni que un pack siga existiendo
 haber retirado su autor.
 
 Lo que sí está construido para no depender de nosotros es tu material: **tus packs viven en tu
-teléfono y siguen funcionando sin conexión y sin cuenta**, y con la copia de seguridad de Android
-sobreviven a un cambio de dispositivo. Aun así, **haz copias de lo que te importe**: un teléfono
-perdido sin copia de seguridad es material perdido, y no tenemos ninguna copia de lo que no
-publicaste.
+teléfono y no dependen de que nosotros existamos**, y con la copia de seguridad de Android sobreviven
+a un cambio de dispositivo. Los que ya estén en WhatsApp siguen ahí pase lo que pase; **volver a
+añadir uno sí necesita conexión**, por el anuncio de la sección 9. Aun así, **haz copias de lo que te
+importe**: un teléfono perdido sin copia de seguridad es material perdido, y no tenemos ninguna copia
+de lo que no publicaste.
 
 Podemos cambiar la aplicación, añadir cosas y quitarlas, e incluso dejar de prestar el servicio. Si
 fuéramos a cerrar el catálogo, avisaríamos con tiempo dentro de la aplicación para que cada uno
