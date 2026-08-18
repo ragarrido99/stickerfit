@@ -246,11 +246,12 @@ consecuencias que conviene saber:
 El premium es **contenido digital que se entrega de inmediato**: en cuanto la compra se confirma, los
 anuncios desaparecen.
 
-Al comprarlo aceptas expresamente que la ejecución empiece en ese momento y reconoces que, hecha esa
-entrega, **pierdes el derecho de desistimiento de catorce días** que la ley europea reconoce a los
+Antes de comprarlo pides expresamente que la ejecución empiece en ese momento y reconoces que, hecha
+esa entrega, **pierdes el derecho de desistimiento de catorce días** que la ley europea reconoce a los
 consumidores para el contenido digital. Es lo que permite el artículo 103.m del texto refundido de la
 Ley General para la Defensa de los Consumidores y Usuarios, y su equivalente en la Directiva
-2011/83/UE.
+2011/83/UE. **La aplicación te pide las dos cosas antes de abrir la hoja de pago**, y sin darlas no se
+puede comprar.
 
 **Eso no te deja sin salida**: los reembolsos de una compra hecha en Google Play los gestiona Google
 con su propia política, que incluye una devolución directa en las primeras 48 horas desde tu cuenta.

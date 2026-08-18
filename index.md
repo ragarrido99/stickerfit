@@ -4,26 +4,28 @@ title: "Sticker.fit"
 
 # Sticker.fit
 
-Aplicación de Android para crear stickers, montarlos en packs e instalarlos en WhatsApp, con un
-catálogo público de contenido compartido por sus usuarios.
+An Android app for making stickers, putting them into packs and installing them in WhatsApp, with a
+public catalogue of content shared by its users.
 
-Esta web no es la aplicación: es donde viven los documentos que tienen que poder consultarse sin
-instalarla y cambiarse sin publicar una versión nueva.
+This site is not the app: it is where the documents live that have to be readable without installing it
+and changeable without publishing a new release.
 
-## Documentos
+*Esta página también está [en español](es/).*
 
-- [Política de privacidad](privacidad.md) — qué datos se tratan, para qué, con quién se comparten y
-  cuáles son tus derechos.
-- [Términos y condiciones](terminos.md) — qué se puede publicar y qué no, la licencia que concedes
-  sobre lo que publicas, y cómo se modera.
-- [Centro de ayuda](ayuda.md) — las preguntas que se repiten, sobre stickers, packs, WhatsApp, la
-  cuenta y el catálogo.
+## Documents
 
-## Trámites
+- [Privacy policy](privacy.md) — what data is processed, what for, who it is shared with and what your
+  rights are.
+- [Terms and conditions](terms.md) — what can and cannot be published, the licence you grant over what
+  you publish, and how moderation works.
+- [Help centre](help.md) — the questions that come up, about stickers, packs, WhatsApp, the account and
+  the catalogue.
 
-- [Borrar tu cuenta](borrado-de-cuenta.md) — desde la aplicación o sin tenerla instalada.
-- [Avisar de un contenido](avisar-de-contenido.md) — no hace falta tener cuenta.
+## Requests
 
-## Contacto
+- [Delete your account](delete-account.md) — from the app or without having it installed.
+- [Report content](report-content.md) — no account needed.
+
+## Contact
 
 `stickerfit.contact@gmail.com`
