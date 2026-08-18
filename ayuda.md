@@ -4,7 +4,7 @@ title: "Centro de ayuda de Sticker.fit"
 
 # Centro de ayuda de Sticker.fit
 
-17 de agosto de 2026
+18 de agosto de 2026
 
 ---
 
@@ -80,6 +80,17 @@ hay ninguno disponible o lo cierras a la mitad, el pack no se añade y puedes vo
 **¿Los anuncios están personalizados?**
 Solo si nos consta que tienes 18 años o más, es decir si tienes cuenta y la fecha que declaraste lo
 dice. En cualquier otro caso —y sin cuenta siempre— el anuncio se pide sin personalizar.
+
+**¿Puedo quitar los anuncios?**
+Sí: hay un pago único de **2,99 €** que los quita de toda la aplicación, para siempre y sin
+suscripción. Se compra desde Ajustes o desde tu perfil. Además de no ver anuncios, **añadir packs a
+WhatsApp vuelve a funcionar sin conexión**, porque lo que la necesitaba era el anuncio. No desbloquea
+ninguna función: lo que se compra es que no pase nada.
+
+**Compré el premium y he cambiado de teléfono, o he reinstalado.**
+La compra está atada a tu cuenta de Google, no a tu cuenta de Sticker.fit, así que se recupera sola al
+entrar con la misma cuenta de Google. Si aun así siguieras viendo anuncios, en Ajustes está la opción
+de restaurar la compra. **Borrar tu cuenta de Sticker.fit tampoco te quita el premium.**
 
 **¿Puedo usar la aplicación sin conexión?**
 Casi entera: crear stickers, editarlos, montar packs, tu biblioteca de sueltos y compartir un sticker

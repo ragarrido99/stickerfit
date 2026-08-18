@@ -4,7 +4,7 @@ title: "Política de privacidad de Sticker.fit"
 
 # Política de privacidad de Sticker.fit
 
-Versión 3 · 17 de agosto de 2026
+Versión 4 · 18 de agosto de 2026
 
 ---
 
@@ -36,6 +36,8 @@ Para cualquier cosa relacionada con esta política, incluidas las peticiones de 
   es exactamente hacerlo visible para cualquiera, tenga cuenta o no.
 - **Puedes borrar tu cuenta desde la propia aplicación**, y también sin tenerla instalada. La
   sección 9 dice qué desaparece y qué no.
+- **Si compras el premium, el pago lo procesa Google Play y no vemos datos de pago.** No guardamos
+  siquiera que lo hayas comprado: eso vive en la tienda. El apartado 5.1 lo explica.
 
 ## 3. Lo que ocurre sin cuenta
 
@@ -144,7 +146,25 @@ aplicación siguen funcionando sin red y sin anuncios. Añadirlo a WhatsApp, no.
 
 En el Espacio Económico Europeo y en el Reino Unido, no aceptar el mensaje de consentimiento significa
 que no se te puede enseñar un anuncio, y por tanto tampoco añadir packs a WhatsApp ni descargar del
-catálogo. El resto de la aplicación sigue funcionando igual.
+catálogo. El resto de la aplicación sigue funcionando igual. **La otra salida es el premium**, que es
+de lo que va el apartado siguiente.
+
+### 5.1 Si compras el premium
+
+Hay un pago único de 2,99 € que quita los anuncios de toda la aplicación; las condiciones están en la
+sección 10 de los términos. Aquí interesa solo lo que tiene que ver con tus datos, y es poco:
+
+- **Con premium no se pide ningún anuncio**, de modo que el sistema de publicidad de Google deja de
+  recibir nada desde la aplicación. Es la única forma de que eso ocurra.
+- **El pago lo procesa Google Play.** No vemos ni guardamos datos de tarjeta, ni de la forma de pago,
+  ni la dirección de facturación. Lo que llega a nosotros es el dinero a través de Google.
+- **No guardamos que hayas comprado.** El derecho vive en Google Play y la aplicación se lo pregunta a
+  la tienda de tu teléfono, no a nuestro servicio. Por eso el premium funciona sin tener cuenta con
+  nosotros, se recupera solo al reinstalar o cambiar de teléfono, y **borrar tu cuenta de Sticker.fit
+  no te lo quita**.
+
+Dicho de otra manera: comprar el premium **no crea ningún dato tuyo en nuestro servicio**. Lo que
+Google trate por su lado para cobrarte se rige por sus propias políticas.
 
 ## 6. Para qué usamos cada cosa, y con qué base
 
@@ -174,6 +194,7 @@ para prestar el servicio:
 | Google | Entrada con cuenta de Google |
 | Firebase Cloud Messaging (Google) | Entrega de los avisos al teléfono |
 | El sistema de publicidad de Google | Los anuncios de la sección 5 |
+| Google Play | El cobro del premium, si lo compras. El pago no pasa por nosotros |
 
 **No vendemos datos personales y no hacemos publicidad basada en lo que haces dentro de la
 aplicación.**

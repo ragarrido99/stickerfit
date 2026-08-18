@@ -4,7 +4,7 @@ title: "Términos y condiciones de Sticker.fit"
 
 # Términos y condiciones de Sticker.fit
 
-Versión 2 · 17 de agosto de 2026
+Versión 3 · 18 de agosto de 2026
 
 ---
 
@@ -21,7 +21,8 @@ forma parte de esto.
 packs, tu biblioteca de stickers sueltos y compartir un sticker con cualquier aplicación. Esa parte
 funciona sin que nos des nada y sin que nosotros veamos nada. **Añadir un pack a WhatsApp tampoco
 necesita cuenta, pero desde el 17 de agosto de 2026 sí necesita conexión**, porque lleva un anuncio:
-lo cuenta la sección 9.
+lo cuenta la sección 9. **Con el premium de la sección 10 vuelve a funcionar sin conexión**, porque
+deja de haber anuncio que enseñar.
 
 ## 2. Edad
 
@@ -199,12 +200,74 @@ del catálogo, guardar un sticker suelto y compartir un sticker no llevan ningun
 pack no se añade y puedes volver a intentarlo. Eso significa que **añadir un pack a WhatsApp necesita
 conexión**.
 
+**Hay una forma de no ver ninguno**, y es el premium de la sección siguiente. No hay otra: no existe
+una versión gratuita sin anuncios ni una manera de saltárselos.
+
 > **Esta sección decía lo contrario hasta el 17 de agosto de 2026**, y conviene dejarlo escrito: el
 > anuncio iba antes de descargar del catálogo, y aquí ponía que no lo había al instalar un pack tuyo.
 > También decía que si el anuncio no cargaba la descarga seguía, lo cual dejó de ser cierto el 16 de
 > agosto de 2026 y este documento no llegó a recogerlo.
 
-## 10. Qué no prometemos
+## 10. Premium
+
+**Un pago único de 2,99 € que quita los anuncios de toda la aplicación.** No es una suscripción: se
+paga una vez y no se renueva ni hay nada que cancelar.
+
+### 10.1 Qué incluye, exactamente
+
+- **No vuelves a ver un anuncio en ninguna parte de la aplicación.**
+- **Y con eso, añadir un pack a WhatsApp deja de necesitar conexión**, porque lo que la necesitaba era
+  el anuncio. Es la consecuencia que más se nota y por eso se dice aquí y no en letra pequeña.
+
+**No incluye ninguna función que los demás no tengan.** Crear, editar, publicar, el catálogo, seguir,
+«me gusta» y los avisos funcionan igual con premium y sin él. Lo que se compra es que no pase nada.
+
+Si algún día añadimos funciones, **serán para todo el mundo o se dirá antes de que compres**: lo que
+esta sección promete es lo que hay el día que pagas.
+
+### 10.2 Quién cobra, y qué vemos nosotros
+
+**El pago lo procesa Google Play**, con la forma de pago que tengas en tu cuenta de Google. Nosotros
+**no vemos ni guardamos datos de tarjeta ni de pago**: recibimos el dinero a través de Google y nada
+más.
+
+**La compra queda asociada a tu cuenta de Google, no a tu cuenta de Sticker.fit.** Eso tiene tres
+consecuencias que conviene saber:
+
+- **Funciona sin tener cuenta nuestra.** Se puede comprar y usar el premium sin haberse registrado
+  nunca en el catálogo.
+- **Se recupera sola** al reinstalar la aplicación o al cambiar de teléfono, mientras entres con la
+  misma cuenta de Google. Si no aparece, en Ajustes está la opción de restaurarla.
+- **Borrar tu cuenta de Sticker.fit no te quita el premium**, porque el premium no está en nuestro
+  servicio: está en Google Play.
+
+### 10.3 Desistimiento, y por qué aquí funciona distinto
+
+El premium es **contenido digital que se entrega de inmediato**: en cuanto la compra se confirma, los
+anuncios desaparecen.
+
+Al comprarlo aceptas expresamente que la ejecución empiece en ese momento y reconoces que, hecha esa
+entrega, **pierdes el derecho de desistimiento de catorce días** que la ley europea reconoce a los
+consumidores para el contenido digital. Es lo que permite el artículo 103.m del texto refundido de la
+Ley General para la Defensa de los Consumidores y Usuarios, y su equivalente en la Directiva
+2011/83/UE.
+
+**Eso no te deja sin salida**: los reembolsos de una compra hecha en Google Play los gestiona Google
+con su propia política, que incluye una devolución directa en las primeras 48 horas desde tu cuenta.
+Y si lo comprado no funciona —pagaste y sigues viendo anuncios—, eso no es desistimiento sino un
+producto defectuoso: escríbenos a `stickerfit.contact@gmail.com` y lo resolvemos, con los derechos de conformidad que la
+ley te da y que no se renuncian.
+
+### 10.4 Cambios de precio y fin del servicio
+
+El precio puede cambiar para compras futuras. **Una compra ya hecha no se ve afectada**: no vamos a
+volver a cobrarte ni a retirarte lo comprado porque el precio suba.
+
+Si dejáramos de prestar el servicio, se aplica lo que dice la sección 11: avisaríamos con tiempo. El
+premium quita anuncios de una aplicación que vive en tu teléfono, de modo que mientras la aplicación
+funcione, lo comprado sigue surtiendo efecto.
+
+## 11. Qué no prometemos
 
 La aplicación y el servicio se ofrecen tal como están. **No garantizamos que el catálogo esté siempre
 disponible**, ni que un contenido siga publicado, ni que un pack siga existiendo mañana: lo puede
@@ -213,15 +276,15 @@ haber retirado su autor.
 Lo que sí está construido para no depender de nosotros es tu material: **tus packs viven en tu
 teléfono y no dependen de que nosotros existamos**, y con la copia de seguridad de Android sobreviven
 a un cambio de dispositivo. Los que ya estén en WhatsApp siguen ahí pase lo que pase; **volver a
-añadir uno sí necesita conexión**, por el anuncio de la sección 9. Aun así, **haz copias de lo que te
-importe**: un teléfono perdido sin copia de seguridad es material perdido, y no tenemos ninguna copia
-de lo que no publicaste.
+añadir uno sí necesita conexión**, por el anuncio de la sección 9, salvo que tengas el premium de la
+sección 10. Aun así, **haz copias de lo que te importe**: un teléfono perdido sin copia de seguridad
+es material perdido, y no tenemos ninguna copia de lo que no publicaste.
 
 Podemos cambiar la aplicación, añadir cosas y quitarlas, e incluso dejar de prestar el servicio. Si
 fuéramos a cerrar el catálogo, avisaríamos con tiempo dentro de la aplicación para que cada uno
 pudiera bajarse lo suyo.
 
-## 11. Responsabilidad
+## 12. Responsabilidad
 
 Respondemos de lo que la ley nos hace responder, y no renunciamos a nada de lo que no se puede
 renunciar frente a un consumidor.
@@ -233,20 +296,20 @@ oportunidades o el lucro cesante.
 Si eres tú quien incumple —publicando lo que no debes o infringiendo derechos de un tercero— y eso
 nos genera una reclamación, responderás de ella.
 
-## 12. Fin del contrato
+## 13. Fin del contrato
 
 Puedes dejar de usar la aplicación cuando quieras, y borrar la cuenta desde dentro. Nosotros podemos
 cerrar una cuenta por lo dicho en la sección 7.
 
 Al terminar, la licencia de la sección 4.2 se extingue con los límites que allí se explican.
 
-## 13. Cambios en estas condiciones
+## 14. Cambios en estas condiciones
 
 Si cambian, se publica la versión nueva aquí con su fecha, y **la aplicación vuelve a pedirte que las
 aceptes antes de tu siguiente publicación**. Seguir usando el catálogo sin publicar no implica
 aceptar una versión nueva de nada.
 
-## 14. Ley aplicable y reclamaciones
+## 15. Ley aplicable y reclamaciones
 
 Se aplica la legislación española y europea. Si eres consumidor, conservas el derecho a acudir a los
 tribunales de tu domicilio y a los mecanismos de resolución de conflictos que la ley te reconozca.

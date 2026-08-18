@@ -4,7 +4,7 @@ title: "Cómo borrar tu cuenta de Sticker.fit"
 
 # Cómo borrar tu cuenta de Sticker.fit
 
-16 de agosto de 2026
+18 de agosto de 2026
 
 ---
 
@@ -44,6 +44,8 @@ antes.
 - **Los packs y stickers de tu teléfono.** Borrar la cuenta no borra tu material: sigue ahí y sigue
   funcionando sin conexión. Si además quieres deshacerte de él, desinstala la aplicación o bórralos
   desde dentro.
+- **El premium, si lo compraste.** Está atado a tu cuenta de Google y no a la de Sticker.fit, de modo
+  que borrar esta no te lo quita ni te devuelve el dinero: sigues sin ver anuncios.
 - **Lo que otras personas ya descargaron.** Son ficheros suyos, en sus teléfonos, y no hay forma de
   alcanzarlos.
 - **Las denuncias que hubieras presentado**, que se conservan sin quedar asociadas a ti. De otro
