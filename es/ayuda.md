@@ -4,7 +4,7 @@ title: "Centro de ayuda de Sticker.fit"
 
 # Centro de ayuda de Sticker.fit
 
-18 de agosto de 2026
+28 de agosto de 2026
 
 ---
 
@@ -82,8 +82,9 @@ Solo si nos consta que tienes 18 años o más, es decir si tienes cuenta y la fe
 dice. En cualquier otro caso —y sin cuenta siempre— el anuncio se pide sin personalizar.
 
 **¿Puedo quitar los anuncios?**
-Sí: hay un pago único de **2,99 €** que los quita de toda la aplicación, para siempre y sin
-suscripción. Se compra desde Ajustes o desde tu perfil. Además de no ver anuncios, **añadir packs a
+Sí: hay un pago único que los quita de toda la aplicación, para siempre y sin
+suscripción. Se compra desde Ajustes o desde tu perfil, y **el precio te lo enseña Google Play ahí
+mismo**, con los impuestos de tu país incluidos. Además de no ver anuncios, **añadir packs a
 WhatsApp vuelve a funcionar sin conexión**, porque lo que la necesitaba era el anuncio. No desbloquea
 ninguna función: lo que se compra es que no pase nada.
 

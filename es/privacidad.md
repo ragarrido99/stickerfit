@@ -4,7 +4,7 @@ title: "Política de privacidad de Sticker.fit"
 
 # Política de privacidad de Sticker.fit
 
-Versión 4 · 18 de agosto de 2026
+Versión 5 · 28 de agosto de 2026
 
 ---
 
@@ -151,7 +151,7 @@ de lo que va el apartado siguiente.
 
 ### 5.1 Si compras el premium
 
-Hay un pago único de 2,99 € que quita los anuncios de toda la aplicación; las condiciones están en la
+Hay un pago único que quita los anuncios de toda la aplicación; las condiciones están en la
 sección 10 de los términos. Aquí interesa solo lo que tiene que ver con tus datos, y es poco:
 
 - **Con premium no se pide ningún anuncio**, de modo que el sistema de publicidad de Google deja de

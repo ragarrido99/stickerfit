@@ -81,8 +81,9 @@ Only if we know you are 18 or older, that is, if you have an account and the dat
 In any other case —and always without an account— the ad is requested non-personalised.
 
 **Can I remove the ads?**
-Yes: there is a one-off payment of **€2.99** that removes them from the whole app, for good and with no
-subscription. You buy it from Settings or from your profile. Besides seeing no ads, **adding packs to
+Yes: there is a one-off payment that removes them from the whole app, for good and with no
+subscription. You buy it from Settings or from your profile, and **Google Play shows you the price
+right there**, with your country's tax included. Besides seeing no ads, **adding packs to
 WhatsApp works offline again**, because the ad was what needed the connection. It unlocks no features:
 what you buy is that nothing happens.
 

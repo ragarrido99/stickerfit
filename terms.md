@@ -4,7 +4,7 @@ title: "Sticker.fit terms and conditions"
 
 # Sticker.fit terms and conditions
 
-Version 3 · 18 August 2026
+Version 4 · 28 August 2026
 
 ---
 
@@ -199,8 +199,14 @@ there is no free ad-less version and no way to skip them.
 
 ## 10. Premium
 
-**A one-off payment of €2.99 that removes ads from the whole app.** It is not a subscription: you pay
+**A one-off payment that removes ads from the whole app.** It is not a subscription: you pay
 once, nothing renews and there is nothing to cancel.
+
+**Google Play shows you the price**: on the app's purchase screen and again on its payment sheet,
+with your country's tax already included. **No figure is written here on purpose**, and it is not an
+omission: the price depends on the country and can change, so a figure written into this document
+would end up saying something different from what you are charged. The one that counts is the one you
+see before paying.
 
 ### 10.1 What it includes, exactly
 

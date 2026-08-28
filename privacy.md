@@ -4,7 +4,7 @@ title: "Sticker.fit privacy policy"
 
 # Sticker.fit privacy policy
 
-Version 4 · 18 August 2026
+Version 5 · 28 August 2026
 
 ---
 
@@ -140,7 +140,7 @@ the next part is about.
 
 ### 5.1 If you buy premium
 
-There is a one-off payment of €2.99 that removes ads from the whole app; the terms are in section 10 of
+There is a one-off payment that removes ads from the whole app; the terms are in section 10 of
 the terms and conditions. What matters here is only what touches your data, and it is little:
 
 - **With premium no ad is requested at all**, so Google's advertising system stops receiving anything

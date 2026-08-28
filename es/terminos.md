@@ -4,7 +4,7 @@ title: "Términos y condiciones de Sticker.fit"
 
 # Términos y condiciones de Sticker.fit
 
-Versión 3 · 18 de agosto de 2026
+Versión 4 · 28 de agosto de 2026
 
 ---
 
@@ -210,8 +210,14 @@ una versión gratuita sin anuncios ni una manera de saltárselos.
 
 ## 10. Premium
 
-**Un pago único de 2,99 € que quita los anuncios de toda la aplicación.** No es una suscripción: se
+**Un pago único que quita los anuncios de toda la aplicación.** No es una suscripción: se
 paga una vez y no se renueva ni hay nada que cancelar.
+
+**El precio te lo enseña Google Play**: en la pantalla de compra de la aplicación y otra vez en su
+hoja de pago, con los impuestos de tu país ya incluidos. **Aquí no se escribe ninguna cifra a
+propósito**, y no es una omisión: el precio depende del país y puede cambiar, de modo que una cifra
+escrita en este documento acabaría diciendo algo distinto de lo que se te cobra. La que vale es la
+que ves antes de pagar.
 
 ### 10.1 Qué incluye, exactamente
 
@@ -262,7 +268,8 @@ ley te da y que no se renuncian.
 ### 10.4 Cambios de precio y fin del servicio
 
 El precio puede cambiar para compras futuras. **Una compra ya hecha no se ve afectada**: no vamos a
-volver a cobrarte ni a retirarte lo comprado porque el precio suba.
+volver a cobrarte ni a retirarte lo comprado porque el precio suba. Como el precio no se escribe en
+este documento, lo que la aplicación te enseña es siempre el vigente.
 
 Si dejáramos de prestar el servicio, se aplica lo que dice la sección 11: avisaríamos con tiempo. El
 premium quita anuncios de una aplicación que vive en tu teléfono, de modo que mientras la aplicación
