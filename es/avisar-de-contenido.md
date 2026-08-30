@@ -40,6 +40,19 @@ primer aviso mientras se revisa.
 Los plazos y los criterios están en la sección 6 de
 los [términos y condiciones](terminos.md), explicados en lenguaje llano.
 
+## Lo que no es un motivo: que alguien reutilice lo tuyo
+
+**Desde la versión 5 de los términos, del 30 de agosto de 2026, reutilizar material publicado en
+este catálogo está permitido** y no hace falta citar a nadie (sección 4.4). De modo que «ha cogido
+mis stickers y ha publicado un pack con ellos» **no es, por sí solo, algo que se pueda retirar**.
+
+Lo que sí lo es, y conviene decirlo al avisar:
+
+- **Que se haga pasar por ti**: que use tu nombre, tu identificador o tu avatar de forma que parezca
+  que la cuenta es tuya. Eso es suplantación.
+- **Que el material infrinja derechos de fuera de la aplicación** —un personaje, un logotipo, una
+  fotografía o la cara de alguien—. Eso se retira siempre, y da igual quién lo publicara primero.
+
 **El aviso no es una garantía de retirada**: la revisión puede acabar en que el contenido se quede
 donde está. Y al revés, tampoco hace falta insistir: un aviso claro es suficiente y varios avisos de
 la misma persona no pesan más.

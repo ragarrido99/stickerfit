@@ -4,7 +4,7 @@ title: "Sticker.fit privacy policy"
 
 # Sticker.fit privacy policy
 
-Version 5 · 28 August 2026
+Version 6 · 30 August 2026
 
 ---
 
@@ -214,6 +214,9 @@ While the account exists, its data is kept.
   followees, your likes, your notifications and your notification addresses disappear.**
 - **The content on your phone does not disappear.** Your packs and stickers are still there: deleting the
   account is an identity operation, not a loss of material.
+- **Packs other people had published with your material do not disappear.** Since version 5 of the terms,
+  publishing lets everyone else reuse it inside their own packs (section 4.4 of the terms): yours leaves
+  the catalogue and theirs stays.
 - **What other people already downloaded does not disappear.** Those are their files on their devices, and
   we have no way to reach them, nor should we.
 - **Two things survive without your name**: reports you may have filed, which are kept without identifying

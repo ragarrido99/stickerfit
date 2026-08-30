@@ -48,6 +48,10 @@ antes.
   que borrar esta no te lo quita ni te devuelve el dinero: sigues sin ver anuncios.
 - **Lo que otras personas ya descargaron.** Son ficheros suyos, en sus teléfonos, y no hay forma de
   alcanzarlos.
+- **Los packs que otras personas hayan publicado con material tuyo.** Desde la versión 5 de los
+  términos, publicar en el catálogo permite a los demás reutilizar lo publicado dentro de sus
+  propios packs (sección 4.4). Tu entrada sale del catálogo; las suyas se quedan, porque se
+  publicaron cuando estaba permitido.
 - **Las denuncias que hubieras presentado**, que se conservan sin quedar asociadas a ti. De otro
   modo, borrarse la cuenta sería una manera de retirar las denuncias propias.
 - **El recuento de descargas de packs de otras personas**, que deja de estar asociado a nadie.

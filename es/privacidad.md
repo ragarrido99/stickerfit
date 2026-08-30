@@ -4,7 +4,7 @@ title: "Política de privacidad de Sticker.fit"
 
 # Política de privacidad de Sticker.fit
 
-Versión 5 · 28 de agosto de 2026
+Versión 6 · 30 de agosto de 2026
 
 ---
 
@@ -228,6 +228,9 @@ escribiendo a `stickerfit.contact@gmail.com`. Al borrarla:
   cuenta es una operación de identidad y no una pérdida de material.
 - **No desaparece lo que otras personas ya descargaron.** Son ficheros suyos en sus dispositivos, y
   no tenemos ninguna forma de alcanzarlos ni debemos tenerla.
+- **No desaparecen los packs que otras personas hubieran publicado con material tuyo.** Desde la
+  versión 5 de los términos, publicar permite a los demás reutilizarlo dentro de sus propios packs
+  (sección 4.4 de los términos): lo tuyo sale del catálogo y lo suyo se queda.
 - **Sobreviven, sin tu nombre**, dos cosas: las denuncias que hubieras presentado, que quedan sin
   identificar a quien las hizo —de otro modo borrarse la cuenta sería una forma de retirar las
   denuncias propias—, y el recuento de descargas de packs ajenos, que deja de estar asociado a

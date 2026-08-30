@@ -4,7 +4,7 @@ title: "Sticker.fit terms and conditions"
 
 # Sticker.fit terms and conditions
 
-Version 4 · 28 August 2026
+Version 5 · 30 August 2026
 
 ---
 
@@ -86,6 +86,40 @@ their files on their phones** and they stay there, and backups are overwritten o
 The packs and stickers you keep on your phone and don't publish are not licensed to us in any way. They
 don't leave the device and we don't see them.
 
+### 4.4 What other people may do with what you publish
+
+Since version 5, 30 August 2026.
+
+**Publishing in the catalogue also means giving everyone else permission to reuse it.** When you
+publish, you grant every other user a **non-exclusive, worldwide, royalty-free licence** to download
+that content, include it in their own packs inside the app and **publish those packs in this same
+catalogue**.
+
+**They don't have to credit you.** We don't require attribution, and we say why instead of leaving it
+hanging: the app **does not keep where each sticker came from**, and one that has been exported and
+imported again arrives with no trace. Attribution we cannot check would be a promise that breaks
+itself.
+
+**What that licence does not allow**, said so there is no doubt:
+
+- **Passing themselves off as you.** Reusing your material is allowed; publishing it with your name,
+  your handle or your avatar, so that it reads as if it were you, is impersonation and section 5
+  forbids it.
+- **Taking it out of here.** It is a licence to use it **inside Sticker.fit**. It does not turn what
+  is yours into free material for any other use or any other place.
+- **Laundering what was not yours.** If what you published infringed someone else's rights, keeping it
+  published still infringes them, no matter who republishes it.
+
+**And for what has already been published, it outlasts your account.** If you take your entry down or
+delete your account, your content leaves the catalogue; **the packs other people had already published
+with it stay there**, because undoing that would mean taking down third-party content that was
+published when it was allowed. It is the same idea section 4.2 already states about what others
+downloaded.
+
+**And if this doesn't work for you, the way out is the usual one: don't publish.** The whole app works
+without an account and without publishing anything, and what you don't publish you grant to nobody
+(4.3).
+
 ## 5. Content that is not allowed
 
 None of the following may be published, or put in a profile:
@@ -108,6 +142,13 @@ None of the following may be published, or put in a profile:
 - **Spam and deception**: repeated content to inflate the catalogue, undisclosed advertising, scams or
   misleading links in the text.
 - **Illegal content** of any other kind.
+
+**One clarification about material with third-party rights, since version 5**: what another person
+has published in this catalogue does **not** count as someone else's material you have no right to,
+because by publishing it they licensed it to you (4.4). What is outside still counts: if the
+original was a character, a logo or someone's face, **republishing it infringes just the same**, and
+the fact that another person published it first doesn't fix it —nobody can license you what wasn't
+theirs—.
 
 And two practical rules, which aren't about content but get broken just as often:
 
@@ -296,7 +337,9 @@ that generates a claim against us, you will answer for it.
 You can stop using the app whenever you want, and delete your account from inside it. We can close an
 account for what section 7 says.
 
-On termination, the licence in section 4.2 ends with the limits explained there.
+On termination, the licence in section 4.2 ends with the limits explained there. **The licence in
+section 4.4 does not end for the packs other people had already published with your content**, for
+the reason explained there.
 
 ## 14. Changes to these terms
 

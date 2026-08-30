@@ -47,6 +47,9 @@ We reply within one month at most, which is the legal deadline, and in practice 
   so deleting this one neither takes it away nor refunds it: you still won't see ads.
 - **What other people already downloaded.** Those are their files, on their phones, and there is no way
   to reach them.
+- **Packs other people have published with your material.** Since version 5 of the terms, publishing in
+  the catalogue lets everyone else reuse what is published inside their own packs (section 4.4). Your
+  entry leaves the catalogue; theirs stay, because they were published when it was allowed.
 - **Reports you may have filed**, which are kept without staying linked to you. Otherwise, deleting your
   account would be a way of withdrawing your own reports.
 - **The download count of other people's packs**, which stops being linked to anyone.

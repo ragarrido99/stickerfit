@@ -41,6 +41,19 @@ first report while it is reviewed.
 The deadlines and the criteria are in section 6 of
 the [terms and conditions](terms.md), explained in plain language.
 
+## What is not a reason: someone reusing your work
+
+**Since version 5 of the terms, of 30 August 2026, reusing material published in this catalogue is
+allowed** and nobody has to credit anyone (section 4.4). So «they took my stickers and published a
+pack with them» **is not, on its own, something that can be taken down**.
+
+What is, and is worth saying when you report:
+
+- **That they pass themselves off as you**: using your name, your handle or your avatar so that the
+  account reads as yours. That is impersonation.
+- **That the material infringes rights from outside the app** —a character, a logo, a photograph or
+  someone's face—. That is always taken down, no matter who published it first.
+
 **A report is not a guarantee of removal**: the review may end with the content staying where it is. And
 the other way round, there is no need to insist: one clear report is enough, and several reports from
 the same person don't weigh more.

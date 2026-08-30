@@ -4,7 +4,7 @@ title: "Términos y condiciones de Sticker.fit"
 
 # Términos y condiciones de Sticker.fit
 
-Versión 4 · 28 de agosto de 2026
+Versión 5 · 30 de agosto de 2026
 
 ---
 
@@ -90,6 +90,37 @@ ciclo.
 Los packs y stickers que tienes en el teléfono y no publicas no nos los concedes en ningún grado. No
 salen del dispositivo y no los vemos.
 
+### 4.4 Lo que otras personas pueden hacer con lo que publicas
+
+Desde la versión 5, del 30 de agosto de 2026.
+
+**Publicar en el catálogo es también dar permiso a los demás para reutilizarlo.** Al publicar,
+concedes a cualquier otra persona usuaria una licencia **no exclusiva, mundial y gratuita** para
+descargar ese contenido, incluirlo en sus propios packs dentro de la aplicación y **publicar esos
+packs en este mismo catálogo**.
+
+**No hace falta que te citen.** No exigimos atribución, y decimos por qué en vez de dejarlo en el
+aire: la aplicación **no guarda de dónde vino cada sticker**, y uno exportado y vuelto a importar
+llega sin rastro. Una atribución que no podemos comprobar sería una promesa que se incumple sola.
+
+**Lo que esa licencia no permite**, dicho para que no haya duda:
+
+- **Hacerse pasar por ti.** Reutilizar tu material está permitido; publicarlo con tu nombre, tu
+  identificador o tu avatar, de forma que se lea como si fueras tú, es suplantación y lo prohíbe la
+  sección 5.
+- **Sacarlo de aquí.** Es una licencia para usarlo **dentro de Sticker.fit**. No convierte lo tuyo en
+  material libre para cualquier otro uso ni para cualquier otro sitio.
+- **Blanquear lo que no era tuyo.** Si lo que publicaste infringía derechos de alguien de fuera,
+  seguirlo publicando los infringe igual, lo republique quien lo republique.
+
+**Y para lo que ya se publicó, dura más que tu cuenta.** Si retiras tu entrada o borras la cuenta, tu
+contenido sale del catálogo; **los packs que otras personas ya habían publicado con él siguen ahí**,
+porque deshacer eso sería retirar contenido de terceros que se publicó cuando estaba permitido. Es la
+misma idea que la 4.2 ya dice de lo que otros descargaron.
+
+**Y si esto no te vale, la salida es la de siempre: no publicar.** La aplicación entera funciona sin
+cuenta y sin publicar nada, y lo que no publicas no se lo concedes a nadie (4.3).
+
 ## 5. Contenido que no se admite
 
 No se puede publicar, ni poner en un perfil, nada de lo siguiente:
@@ -113,6 +144,12 @@ No se puede publicar, ni poner en un perfil, nada de lo siguiente:
 - **Spam y engaños**: contenido repetido para inflar el catálogo, publicidad encubierta, estafas o
   enlaces engañosos en el texto.
 - **Contenido ilegal** de cualquier otro tipo.
+
+**Una precisión sobre el material con derechos de terceros, desde la versión 5**: lo que otra
+persona ha publicado en este catálogo **no** cuenta como material ajeno del que no tengas derecho,
+porque al publicarlo te lo licenció (4.4). Lo de fuera sí sigue contando: si el original era un
+personaje, un logotipo o la cara de alguien, **republicarlo infringe igual**, y que lo publicara
+antes otra persona no lo arregla —nadie puede licenciarte lo que no era suyo—.
 
 Y dos reglas prácticas, que no son de contenido pero se incumplen igual:
 
@@ -309,7 +346,9 @@ nos genera una reclamación, responderás de ella.
 Puedes dejar de usar la aplicación cuando quieras, y borrar la cuenta desde dentro. Nosotros podemos
 cerrar una cuenta por lo dicho en la sección 7.
 
-Al terminar, la licencia de la sección 4.2 se extingue con los límites que allí se explican.
+Al terminar, la licencia de la sección 4.2 se extingue con los límites que allí se explican. **La
+de la sección 4.4 no se extingue para los packs que otras personas ya hubieran publicado con tu
+contenido**, por lo que allí se explica.
 
 ## 14. Cambios en estas condiciones
 
