@@ -39,9 +39,14 @@ packs que ya estén en WhatsApp siguen ahí sin conexión. El catálogo también
 Un vídeo, un GIF o un WebP animado ya hecho. Se recorta a cuadrado y se ajusta a lo que WhatsApp
 admite: **512×512 y como mucho 10 segundos**.
 
-**¿Por qué en los animados no hay texto, pincel ni emojis?**
-Porque el editor de composición trabaja sobre una imagen fija. En los animados se puede encuadrar y
-recortar la duración, y nada más. Es una limitación asumida y no un error.
+**¿Qué se puede hacer con un animado?**
+Bastante más que recortarlo. Puedes encuadrarlo, elegir el trozo, cambiar la velocidad de ×0,5 a ×3,
+ponerlo del revés o en bucle de ida y vuelta, apilar hasta tres de sus diecinueve efectos, y añadirle
+texto y dibujo con su propia duración y su entrada y salida. Y deshacer paso a paso. Mientras editas,
+la pantalla te enseña a qué peso va el fichero.
+
+Lo que **no** tienen los animados es la forma, el borde y el recorte de fondo, que son del editor de
+fotos. Eso sí es una limitación asumida y no un error.
 
 **Mi animado se ve como una imagen quieta en WhatsApp.**
 Eso lo hace WhatsApp cuando el fichero no cumple sus reglas de animación: se queda con el primer
@@ -125,8 +130,9 @@ aviso es solo el toque en el hombro.
 El mismo interruptor. No vuelve a pedirte el permiso si ya lo concediste.
 
 **¿Puedo poner la aplicación en otro idioma?**
-Sí, en Ajustes → Idioma: español o inglés. Por debajo de Android 13 el cambio se aplica dentro de la
-aplicación; en Android 13 y superiores también aparece en los ajustes de idioma del teléfono.
+Sí, en Ajustes → Idioma, y hay **diez**: español, inglés, portugués, francés, ruso, indonesio, hindi,
+bengalí, árabe y urdu. Por debajo de Android 13 el cambio se aplica dentro de la aplicación; en
+Android 13 y superiores también aparece en los ajustes de idioma del teléfono.
 
 ## Mis packs
 

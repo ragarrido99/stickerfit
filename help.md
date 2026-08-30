@@ -38,9 +38,14 @@ already in WhatsApp stay there without a connection. The catalogue also needs th
 A video, a GIF or a ready-made animated WebP. It is cropped to a square and fitted to what WhatsApp
 accepts: **512×512 and 10 seconds at most**.
 
-**Why is there no text, brush or emoji on animated ones?**
-Because the composition editor works on a still image. On animated ones you can frame and trim the
-duration, and nothing else. It is an accepted limitation, not a bug.
+**What can I do with an animated one?**
+Rather more than trim it. You can frame it, pick the segment, change the speed from 0.5× to 3×, play it
+backwards or in a back-and-forth loop, stack up to three of its nineteen effects, and add text and
+drawing with their own duration and their own way of coming in and out. And undo step by step. While
+you edit, the screen shows you the file size you are heading for.
+
+What animated ones do **not** have is the shape, the outline and background removal, which belong to
+the photo editor. That is an accepted limitation, not a bug.
 
 **My animated sticker shows up as a still image in WhatsApp.**
 That is what WhatsApp does when the file doesn't meet its animation rules: it keeps the first frame. The
@@ -122,7 +127,8 @@ the tap on the shoulder.
 The same switch. It won't ask for permission again if you already granted it.
 
 **Can I put the app in another language?**
-Yes, in Settings → Language: Spanish or English. Below Android 13 the change applies inside the app; on
+Yes, in Settings → Language, and there are **ten**: Spanish, English, Portuguese, French, Russian,
+Indonesian, Hindi, Bengali, Arabic and Urdu. Below Android 13 the change applies inside the app; on
 Android 13 and above it also appears in your phone's language settings.
 
 ## My packs
