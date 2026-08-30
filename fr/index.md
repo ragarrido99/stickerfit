@@ -10,7 +10,7 @@ avec un catalogue public de contenus partagés par ses utilisateurs.
 Ce site n’est pas l’application : c’est là que vivent les documents qui doivent pouvoir se lire sans
 l’installer et se corriger sans publier une nouvelle version.
 
-*Cette page est aussi disponible [en anglais](../) et [en espagnol](../es/).*
+[English](../) · [Español](../es/) · [Português](../pt/) · **Français** · [Русский](../ru/) · [Bahasa Indonesia](../in/) · [हिन्दी](../hi/) · [বাংলা](../bn/) · [العربية](../ar/) · [اردو](../ur/)
 
 ## Documents
 

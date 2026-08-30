@@ -10,7 +10,7 @@ katalog publik berisi konten yang dibagikan para penggunanya.
 Situs ini bukan aplikasinya: di sinilah dokumen-dokumen yang harus bisa dibaca tanpa memasangnya dan
 diperbaiki tanpa merilis versi baru.
 
-*Halaman ini juga tersedia [dalam bahasa Inggris](../) dan [dalam bahasa Spanyol](../es/).*
+[English](../) · [Español](../es/) · [Português](../pt/) · [Français](../fr/) · [Русский](../ru/) · **Bahasa Indonesia** · [हिन्दी](../hi/) · [বাংলা](../bn/) · [العربية](../ar/) · [اردو](../ur/)
 
 ## Dokumen
 

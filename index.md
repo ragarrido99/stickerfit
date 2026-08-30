@@ -10,7 +10,7 @@ public catalogue of content shared by its users.
 This site is not the app: it is where the documents live that have to be readable without installing it
 and changeable without publishing a new release.
 
-*Esta página también está [en español](es/).*
+**English** · [Español](es/) · [Português](pt/) · [Français](fr/) · [Русский](ru/) · [Bahasa Indonesia](in/) · [हिन्दी](hi/) · [বাংলা](bn/) · [العربية](ar/) · [اردو](ur/)
 
 ## Documents
 

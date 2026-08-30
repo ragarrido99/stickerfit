@@ -10,7 +10,7 @@ catálogo público de contenido compartido por sus usuarios.
 Esta web no es la aplicación: es donde viven los documentos que tienen que poder consultarse sin
 instalarla y cambiarse sin publicar una versión nueva.
 
-*This page is also available [in English](../).*
+[English](../) · **Español** · [Português](../pt/) · [Français](../fr/) · [Русский](../ru/) · [Bahasa Indonesia](../in/) · [हिन्दी](../hi/) · [বাংলা](../bn/) · [العربية](../ar/) · [اردو](../ur/)
 
 ## Documentos
 

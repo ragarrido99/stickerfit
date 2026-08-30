@@ -10,7 +10,7 @@ catálogo público de conteúdo compartilhado por seus usuários.
 Este site não é o aplicativo: é onde ficam os documentos que precisam poder ser lidos sem instalá-lo e
 corrigidos sem publicar uma versão nova.
 
-*Esta página também está [em inglês](../) e [em espanhol](../es/).*
+[English](../) · [Español](../es/) · **Português** · [Français](../fr/) · [Русский](../ru/) · [Bahasa Indonesia](../in/) · [हिन्दी](../hi/) · [বাংলা](../bn/) · [العربية](../ar/) · [اردو](../ur/)
 
 ## Documentos
 
